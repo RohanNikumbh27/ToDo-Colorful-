@@ -1,5 +1,5 @@
 * {
-    font-family: math, cursive;
+    font-family: math;
 }
 
 body {
@@ -59,7 +59,7 @@ h1 {
     padding: 10px 20px;
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
-    margin-left: 20px;
+    margin: 20px;
     cursor: pointer;
     transition: ease-in-out;
     transition-duration: 0.2s;
@@ -71,7 +71,7 @@ h1 {
     padding: 10px 20px;
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
-    margin-left: 20px;
+    margin: 20px;
     min-width: 100px;
     max-width: 50%;
     cursor: pointer;
